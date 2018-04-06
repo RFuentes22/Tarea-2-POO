@@ -7,7 +7,7 @@ package tarea.pkg2.poo;
 
 /**
  *
- * @author Tito
+ * @author Roberto Fuentes 00062217
  */
 public class Proveedor {
     private String nombre;
